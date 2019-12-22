@@ -68,6 +68,8 @@ Spring Boot 2精髓(高清版)
 
 Spring Boot实战 ,丁雪丰 (译者)
 
+Wrox.Professional.Java.Development.with.the.Spring.Framework（英文）- Spring作者的书
+
 ## Mysql
 
 MySQL王者晋级之路
