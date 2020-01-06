@@ -16,6 +16,8 @@ Java编程思想(第4版)带目录书签
 
 Effective.Java_2 中文版
 
+Effective Java 第三版
+
 Java并发编程的艺术
 
 Java并发编程之美
@@ -55,6 +57,8 @@ Redis开发与运维-付磊
 Spring技术内幕：深入解析Spring架构与设计原理（第2版）
 
 Spring源码深度解析
+
+Spring源码深度解析（第二版）
 
 深入理解Spring Cloud与微服务构
 
