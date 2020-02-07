@@ -72,7 +72,11 @@ Spring Boot 2精髓(高清版)
 
 Spring Boot实战 ,丁雪丰 (译者)
 
-Wrox.Professional.Java.Development.with.the.Spring.Framework（英文）- Spring作者的书
+EXPERT.ONE.ON.ONE.J2EE.DEVELOPMENT.WITHOUT.EJB-中文-Rod Johnson
+
+Wrox.Expert.One-On-One.J2EE.Design.And.Development - Rod Johnson
+
+Wrox.Professional.Java.Development.with.the.Spring.Framework（英文）- Rod Johnson
 
 Spring 5开发大全
 
