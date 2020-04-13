@@ -6,7 +6,7 @@
 # 目录
 电子书虽然方便，但我们还是要支持正版，好的书籍买本放着翻翻也很不错
 
-网盘地址：https://pan.baidu.com/s/1IR_wPTy_htleHC5NKYOxdA 提取码:n293
+网盘地址：原地址网盘限制了分享，有需要加网盘账号`TTo爱oMM`
 
 ## Java
 
