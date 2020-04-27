@@ -42,6 +42,12 @@ Java深入解析 透析Java本质的36个话题
 
 阿里巴巴Java开发手册（终极版）
 
+Java虚拟机（第二版）
+
+Java与模式(清晰书签版)
+
+Tomcat架构解析
+
 ## Redis
 
 Redis深度历险：核心原理和应用实践
@@ -82,6 +88,8 @@ Spring 5开发大全
 
 《Spring5高级编程（第5版）》_王净译
 
+Spring.in.Action_4th.Edition-Spring实战(第4版文字版)
+
 ## Mysql
 
 MySQL王者晋级之路
@@ -103,6 +111,8 @@ MySQL技术内幕(第4版)
 ## Mybatis
 
 MyBatis技术内幕
+
+《深入浅出MyBatis技术原理与实战》
 
 设计模式
 
@@ -147,6 +157,8 @@ Maven权威指南_中文完整版清晰
 Kafka权威指南
 
 RocketMQ实战与原理解析
+
+大型网站系统与JAVA中间件实践
 
 ## Netty
 
