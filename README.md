@@ -6,7 +6,7 @@
 # 目录
 电子书虽然方便，但我们还是要支持正版，好的书籍买本放着翻翻也很不错
 
-网盘地址：原地址网盘限制了分享，有需要关注公众号，发送`书名`获取地址  
+网盘地址：原地址网盘限制了分享，有需要关注公众号，发送`下面列出的书名`获取对应地址  
 ![阿提说说](https://avatars1.githubusercontent.com/u/29937421?s=460&u=299c0e6a6bbad39498518da65a680febbfd9c0cf&v=4)
 
 ## Java
@@ -17,7 +17,7 @@ Java编程思想(第4版)带目录书签
 
 Effective.Java_2 中文版
 
-Effective Java 第三版
+Effective Java 3
 
 Java并发编程的艺术
 
