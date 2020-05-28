@@ -12,9 +12,9 @@
 
 ## Java
 
-Java编程思想(第4版)带目录书签
+Java编程思想
 
-疯狂Java：突破程序员基本功的16课.修订版
+疯狂Java：突破程序员基本功的16课
 
 Effective.Java_2 中文版
 
@@ -24,11 +24,11 @@ Java并发编程的艺术
 
 Java并发编程之美
 
-实战Java高并发程序设计（第2版)
+实战Java高并发程序设计
 
 Java性能优化权威指南
 
-深入理解Java虚拟机：JVM高级特性与最佳实践（最新第二版）
+深入理解Java虚拟机：JVM高级特性与最佳实践
 
 Java程序性能优化++让你的Java程序更快、更稳定
 
@@ -36,7 +36,7 @@ Java程序性能优化++让你的Java程序更快、更稳定
 
 Java性能权威指南
 
-Java 8编程官方参考教程（第9版）
+Java 8编程官方参考教程
 
 Java8实战
 
@@ -60,7 +60,7 @@ Redis开发与运维-付磊
 
 ## Spring
 
-精通Spring 4.x 企业应用开发实战_陈雄华著
+精通Spring 4.x 企业应用开发实战
 
 Spring技术内幕：深入解析Spring架构与设计原理（第2版）
 
@@ -78,7 +78,7 @@ Spring Boot 2精髓(高清版)
 
 深入实践Spring Boot.陈韶健
 
-Spring Boot实战 ,丁雪丰 (译者)
+Spring Boot实战
 
 EXPERT.ONE.ON.ONE.J2EE.DEVELOPMENT.WITHOUT.EJB-中文-Rod Johnson
 
@@ -88,7 +88,7 @@ Wrox.Professional.Java.Development.with.the.Spring.Framework（英文）- Rod Jo
 
 Spring 5开发大全
 
-《Spring5高级编程（第5版）》_王净译
+Spring5高级编程（第5版）
 
 Spring.in.Action_4th.Edition-Spring实战(第4版文字版)
 
@@ -100,9 +100,9 @@ Effective+MySQL之SQL语句最优化
 
 MySQL技术内幕InnoDB存储引擎
 
-[MySQL技术内幕：SQL编程].姜承尧.扫描版
+MySQL技术内幕：SQL编程
 
-[[高性能MySQL（第3版）].Baron.Scbwartz等
+高性能MySQL（第3版）
 
 MySQL技术内幕(第4版)
 
@@ -114,9 +114,9 @@ MySQL技术内幕(第4版)
 
 MyBatis技术内幕
 
-《深入浅出MyBatis技术原理与实战》
+深入浅出MyBatis技术原理与实战
 
-设计模式
+## 设计模式
 
 HeadFirst设计模式（中文版）
 
@@ -130,7 +130,7 @@ HeadFirst设计模式（中文版）
 
 算法 第4版-谢路云译完整版
 
-《IT名企算法与数据结构题目最优解》（左程云 著）
+IT名企算法与数据结构题目最优解
 
 ## Docker
 
@@ -166,7 +166,7 @@ RocketMQ实战与原理解析
 
 ## Netty
 
-Netty权威指南 第2版 带书签目录 完整版
+Netty权威指南 第2版
 
 ## 架构
 
@@ -190,7 +190,7 @@ App后台开发运维和架构实践
 
 软件架构师的12项修炼.Dave.Hendricksen
 
-《可伸缩服务架构：框架与中间件》- 完整书签
+可伸缩服务架构：框架与中间件
 
 ## 高质量代码
 
@@ -202,14 +202,14 @@ App后台开发运维和架构实践
 
 代码整洁之道
 
-Java测试驱动开发-文字版-带详细书签
+Java测试驱动开发
 
 ## 面试
 剑指offer 名企面试官精讲典型编程题  
 
 Java程序员面试笔试真题与解析   
 
-java面试宝典  
+Java面试宝典  
 
 来自网友的面试分享  
 
@@ -223,7 +223,7 @@ java面试宝典
 
 有效的单元测试
 
-标签_标记系统设计实践(电子书)
+标签_标记系统设计实践
 
 程序开发心理学（银年纪念版）
 
