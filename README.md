@@ -53,8 +53,10 @@ Java与模式(清晰书签版)
 Tomcat架构解析
 
 Tomcat内核设计剖析
+ 
+图解Java多线程设计模式  
 
-图解Java多线程设计模式
+疯狂工作流讲义——基于Activiti 6.x的应用开发  
 
 ## Redis
 
