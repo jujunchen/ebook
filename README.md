@@ -257,4 +257,8 @@ Spark MLLIB机器学习 算法、源码及实战详解
 
 Scala并发编程
 
-SCALA程序设计
+SCALA程序设计  
+
+## 其他  
+
+STL源码剖析  
