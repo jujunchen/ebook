@@ -76,6 +76,10 @@ Tomcat内核设计剖析
  
 图解Java多线程设计模式  
 
+揭秘Java虚拟机-JVM设计原理与实现  
+
+实战JAVA虚拟机  JVM故障诊断与性能优化  
+
 疯狂工作流讲义——基于Activiti 6.x的应用开发  
 
 ## Redis
