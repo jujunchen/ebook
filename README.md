@@ -19,7 +19,7 @@
 [Docker](#Docker)  
 [Zookeeper](#Zookeeper)  
 [Nginx](#Nginx)  
-[Maven](#Maven)  
+[构建工具](#构建工具)  
 [消息中间件](#消息中间件)  
 [Netty](#Netty)  
 [ES](#ES)  
@@ -181,11 +181,13 @@ Zookeeper 分布式过程
 
 精通Nginx(第2版)
 
-## Maven
+## 构建工具
 
 Maven实战
 
-Maven权威指南_中文完整版清晰
+Maven权威指南_中文完整版清晰  
+
+实战Gradle_中文
 
 ## 消息中间件
 
