@@ -9,7 +9,7 @@
 
 已经关注，下载完的，不要取消了吧，好歹我辛苦搜集，再说我公众号也没有广告，想到了就给大家分享分享干货  
 
-![阿提说说](https://imgkr.cn-bj.ufileos.com/def76f14-2711-4f32-8a70-e63116b1d63c.png)  
+![阿提说说](https://github.com/jujunchen/ebook/blob/master/qrcode_for_gh_7f5be5afb010_258.jpg?raw=true)  
 
 
 # 目录
