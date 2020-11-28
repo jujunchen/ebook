@@ -203,7 +203,9 @@ Kafka权威指南
 
 RocketMQ实战与原理解析
 
-大型网站系统与JAVA中间件实践
+大型网站系统与JAVA中间件实践  
+
+RabbitMQ实战指南	  
 
 ## Netty
 
