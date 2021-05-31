@@ -1,5 +1,4 @@
 # Java相关精品电子书一共115+，本仓库持续更新
-# 没有的电子书，可以联系QQ:1913210361购买  
 
 这些电子书是本人自己收集购买的，电子书虽然方便，但我们还是要支持正版
 
@@ -129,7 +128,9 @@ Spring 5开发大全
 
 Spring5高级编程（第5版）
 
-Spring.in.Action_4th.Edition-Spring实战(第4版文字版)
+Spring.in.Action_4th.Edition-Spring实战(第4版文字版)  
+
+Spring Security 实战  
 
 ## Mysql
 
