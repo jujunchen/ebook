@@ -88,6 +88,8 @@ Tomcat内核设计剖析
 
 疯狂工作流讲义——基于Activiti 6.x的应用开发  
 
+Java函数式编程  
+
 ## Redis
 
 Redis深度历险：核心原理和应用实践
