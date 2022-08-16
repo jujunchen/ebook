@@ -100,9 +100,9 @@ Redis开发与运维-付磊
 
 ## Spring
 
-Spring Boot Admin官方参考指南-中文版  
+Spring Boot Admin官方参考指南-中文版2.x  
 
-Spring Cloud Gateway官方参考指南-中文版  
+Spring Cloud Gateway官方参考指南-中文版3.x  
 
 精通Spring 4.x 企业应用开发实战
 
